@@ -59,7 +59,7 @@ Now when we create a model a `spec/factories` folder will be created for us, as 
 
 FactoryGirl likes to create files that look like this... 
 
-```
+```bash
 spec/factories/ingredients.rb
 spec/factories/recipes.rb
 spec/factories/users.rb
